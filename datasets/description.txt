@@ -1,0 +1,6 @@
+This folder contains all the datasets that have been used throughout the project.
+
+/P_Data_Extract_From_World_Development_Indicators - contains the initial dataset, collected from `https://databank.worldbank.org/source/world-development-indicators#`, selected indicators:
+- Economic Policy & Debt -> National Accounts -> Growth Rates
+- Environment -> Emissions
+- Environment -> Energy Production & Use# Commit 2 - Upload raw World Bank panel data (1989–2023)
