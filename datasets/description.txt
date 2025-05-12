@@ -4,3 +4,4 @@ This folder contains all the datasets that have been used throughout the project
 - Economic Policy & Debt -> National Accounts -> Growth Rates
 - Environment -> Emissions
 - Environment -> Energy Production & Use# Commit 2 - Upload raw World Bank panel data (1989–2023)
+# Commit 6 - Add documentation for sample construction and exclusion rules
