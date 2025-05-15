@@ -1,1 +1,2 @@
 €}”.# Commit 17 - Add draft of final policy implications and threshold insights
+# Commit 7 - Develop variable construction pipeline for REC, EI, GDP, and sectors
