@@ -1,4 +1,3 @@
-```markdown
 # Sectoral Impact of Renewable Energy Consumption on Economic Transformation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
