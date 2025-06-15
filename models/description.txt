@@ -1,1 +1,0 @@
-This folder contains all the saved machine learning models in `.pkl` format.# Commit 12 - Perform heterogeneity analysis across low/mid/upper income levels

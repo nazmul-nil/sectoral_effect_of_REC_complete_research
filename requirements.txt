@@ -1,10 +1,26 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-plotly
-geopandas
-scipy
-statsmodels
-linearmodels
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.10
+
+# Statistical analysis & econometrics
+linearmodels>=4.27
+statsmodels>=0.13.5
+scipy>=1.9.0
+
+# Plotting & visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine learning utilities (e.g., diagnostics, metrics)
+scikit-learn>=1.1.2
+
+# File handling
+pickle-mixin>=1.0.2
+
+# Display & formatting
+tqdm>=4.64.1
+tabulate>=0.9.0
+
+# Optional: for PDF export of plots or notebooks
+reportlab>=3.6.12
