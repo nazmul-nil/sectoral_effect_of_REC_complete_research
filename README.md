@@ -8,7 +8,8 @@
 
 This repository provides a comprehensive econometric analysis examining **how renewable energy consumption (REC) and energy efficiency transitions reshape sectoral economic transformation trajectories** across low- and middle-income countries. Using panel data spanning 1990-2023 and covering 128 countries, the study employs advanced econometric techniques including Fixed Effects, Instrumental Variables (IV/2SLS), and Generalized Method of Moments (GMM) to identify causal relationships and heterogeneous pathways.
 
-**This work is a continuation of the MSc thesis,** *['Investigating the Effects of Renewable Energy and Energy Efficiency on Economic Growth in Low- and Middle-Income Nations'](https://github.com/nazmul-nil/MSc-DS-Research-Project-UH.git)*
+**This work is a continuation of the MSc thesis,** *['Investigating the Effects of Renewable Energy and Energy Efficiency on Economic Growth in Low- and Middle-Income Nations'](https://github.com/nazmul-nil/MSc-DS-Research-Project-UH.git)*. The intention is to research on the following question:
+*"How do heterogeneous renewable energy adoption pathways and energy efficiency transitions reshape sectoral economic transformation trajectories across low- and middle-income countries with differentiated carbon emission profiles, and what are the threshold effects and temporal dynamics governing these relationships?"*
 
 ### 🎯 Key Research Questions
 - How do renewable energy adoption pathways differ across income levels and development stages?
